@@ -1,4 +1,4 @@
-<h1 align="center">VirusTotal Uploader</h1>
+<h2 align="center">VirusTotal Uploader</h2>
 <p align="center">Open-source desktop uploader for VirusTotal.</p>
 <p align="center">
 <img src="https://badges.gitter.im/VirusTotalUploader/Lobby.svg" href="https://gitter.im/VirusTotalUploader/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge" />
