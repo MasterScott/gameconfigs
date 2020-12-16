@@ -3,9 +3,12 @@
   <h3 align="center">test</h3>
   <p align="center">some other ultimate test</p>
 </p>
+<br>
 
-<img align="left" src="icon.png"><h3>title</h3>
-
+<div>
+  <img style="vertical-align:middle" src="icon.png">
+  <span style="">Works.</span>
+</div>
 
 
 
